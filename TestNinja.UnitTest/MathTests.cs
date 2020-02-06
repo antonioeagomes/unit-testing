@@ -18,12 +18,14 @@ namespace TestNinja.UnitTest
         [SetUp]
         public void SetUP()
         {
+            /* SetUp executa antes do test */
             _math = new Math();
         }
 
         [TearDown]
         public void TearDown()
         {
+            /* SetUp executa depois do teste. Como um dispose */
             _math = null;
         }
 
@@ -69,6 +71,7 @@ namespace TestNinja.UnitTest
         [TestCase(2, 1, 2)]
         [TestCase(1, 2, 2)]
         [TestCase(1, 1, 1)]
+        /* Parameterized Tests */
         public void Max_WhenCalled_ReturnTheGreaterArgument(int a, int b, int expectedResult)
         {
             var result = _math.Max(a, b);
@@ -80,7 +83,7 @@ namespace TestNinja.UnitTest
         public void GetOddNumbers_LimitIsGreaterThenZero()
         {
             var result = _math.GetOddNumbers(5);
-            /*
+            /* * Testando Arrays e Collections *
             Assert.That(result, Is.Not.Empty);
             Assert.That(result.Count(), Is.EqualTo(3));
             

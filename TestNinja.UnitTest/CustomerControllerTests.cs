@@ -14,6 +14,7 @@ namespace TestNinja.UnitTest
         [Test]
         public void GetCostumer_IdIsZero_ReturnNotFound()
         {
+            /* Testando quando retorna um tipo (Type) */
             var contoller = new CustomerController();
 
             var result = contoller.GetCustomer(0);

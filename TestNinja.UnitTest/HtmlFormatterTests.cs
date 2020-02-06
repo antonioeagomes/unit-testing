@@ -14,6 +14,7 @@ namespace TestNinja.UnitTest
         [Test]
         public void FormatAsBold_WhenCalled_ShouldEncloseStringWithStrongTag()
         {
+            /* Testando String */
             var formater = new HtmlFormatter();
             var result = formater.FormatAsBold("abc");
             // specific
