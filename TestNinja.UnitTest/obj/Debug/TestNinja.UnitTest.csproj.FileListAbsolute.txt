@@ -62,3 +62,11 @@ C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\obj\Debu
 C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csproj.CopyComplete
 C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.dll
 C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.pdb
+C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\bin\Debug\Castle.Core.dll
+C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\bin\Debug\Moq.dll
+C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\bin\Debug\Castle.Core.xml
+C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\bin\Debug\Moq.xml
+C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
