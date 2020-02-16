@@ -80,6 +80,7 @@ namespace TestNinja.UnitTest.Fundamentals
             Assert.That(() => stack.Peek(), Throws.InvalidOperationException);
         }
 
+        [Test]
         public void Peek_StackWithObjects_ReturnObjectOnTheTop()
         {
             // arrange
