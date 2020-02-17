@@ -33,7 +33,7 @@ C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja\bin\Debug\Newtons
 C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja\bin\Debug\EntityFramework.xml
 C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja\bin\Debug\Newtonsoft.Json.xml
-C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
 C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
 C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja\obj\Debug\TestNinja.dll
 C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\aeag\Documents\Dev\CSharp\Test\unit-testing\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
